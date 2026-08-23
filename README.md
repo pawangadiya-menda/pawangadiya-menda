@@ -2,39 +2,115 @@
 
 **Senior Product Manager @ Accenture | B2B SaaS → AI Products | ISB MBA**
 
-I'm a product manager with 15 years in enterprise IT — ERP platforms, systems integration, and a 0→1 vertical SaaS launch scaled to 10 enterprise clients. Now I'm going deep on AI: not just reading about RAG and agents, but **building them myself**, because I believe the best AI PMs have shipped something with their own hands.
+I am building hands-on depth in AI/ML alongside product management. This GitHub is organized by **technology area**, so visitors can easily navigate from classical Machine Learning to Deep Learning, RAG, and AI Agents.
 
-🤖 **Talk to my AI digital twin:** [digital-twin-1jym.onrender.com](https://digital-twin-1jym.onrender.com/) — it answers questions about my career, live.
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it is | PM Lens |
-|---|---|---|
-| [**digital-twin**](https://github.com/pawangadiya-menda/digital-twin) | AI chatbot version of me — Gradio + LLM API, grounded in my real profile, deployed on Render | Grounding, latency-as-UX, cost per conversation |
-| [**rag-agents-learning**](https://github.com/pawangadiya-menda/rag-agents-learning) | My structured RAG & AI Agents journey — pipelines, notebooks, and a product brief for each build | Build-vs-buy, eval frameworks, when agents beat chatbots |
-| [**Agents**](https://github.com/pawangadiya-menda/Agents) | Agentic AI engineering coursework — OpenAI SDK, CrewAI, LangGraph, MCP | Framework trade-offs a PM should actually understand |
-| [**india-district-literacy-prediction**](https://github.com/pawangadiya-menda/india-district-literacy-prediction) | IIIT-H hackathon: multi-classifier ML pipeline, 90%+ accuracy | Feature choices as product decisions |
-| [**titanic-survival-classification**](https://github.com/pawangadiya-menda/titanic-survival-classification) | IIIT-H hackathon: VotingClassifier ensemble (LR + DT + RF + SVM), 81%+ accuracy | Interpretability vs. accuracy trade-offs |
+🤖 **Talk to my AI Digital Twin:** [Live Demo](https://digital-twin-1jym.onrender.com/)
 
 ---
 
-## 🛠️ What I Work With
+# 🗂️ Project Portfolio
 
-**AI/ML:** RAG pipelines · AI Agents (ReAct, LangGraph, CrewAI) · MCP servers · Claude & OpenAI APIs · Prompt engineering · Evals
-**Product:** 0→1 SaaS · Enterprise B2B · AI product metrics (model quality → product experience → business outcomes → Responsible AI) · Roadmaps & GTM
-**Enterprise foundations:** Microsoft Dynamics AX · Systems integration (BizTalk, AIF) · Multi-country ERP rollouts
+## 🤖 AI Agents, RAG & LLM Applications
+
+| Project | Description |
+|---|---|
+| [**Agents**](https://github.com/pawangadiya-menda/Agents) | Hands-on agentic AI learning covering foundations, OpenAI, CrewAI, LangChain/LangGraph, agent frameworks and MCP. |
+| [**rag-agents-learning**](https://github.com/pawangadiya-menda/rag-agents-learning) | RAG fundamentals, end-to-end RAG pipelines, embeddings, retrieval, generation, advanced RAG and AI-agent concepts with a PM lens. |
+| [**digital-twin**](https://github.com/pawangadiya-menda/digital-twin) | AI-powered digital twin/chatbot grounded in my professional profile, built with an LLM API and Gradio and deployed on Render. |
+
+---
+
+## 🧠 Deep Learning & Computer Vision
+
+| Project | Description |
+|---|---|
+| [**Image-Classification**](https://github.com/pawangadiya-menda/Image-Classification) | Binary image classification using Convolutional Neural Networks (CNNs) in PyTorch. |
+| [**plant-image-denoising-autoencoder**](https://github.com/pawangadiya-menda/plant-image-denoising-autoencoder) | Convolutional autoencoder that learns to reconstruct clean plant images from noisy inputs using paired noisy–pure images. |
+
+---
+
+## 📊 Machine Learning
+
+| Project | Description |
+|---|---|
+| [**titanic-survival-classification**](https://github.com/pawangadiya-menda/titanic-survival-classification) | Binary classification using Logistic Regression, Decision Tree, Random Forest, SVM and a VotingClassifier ensemble. |
+| [**india-district-literacy-prediction**](https://github.com/pawangadiya-menda/india-district-literacy-prediction) | Multi-class classification across Indian districts using data integration, feature selection, scaling, SVM, Decision Tree and Random Forest. |
+
+---
+
+## 🧪 Learning Foundations
+
+Some repositories contain multiple learning modules rather than a single standalone project:
+
+- **[rag-agents-learning](https://github.com/pawangadiya-menda/rag-agents-learning)** — includes ML foundations in addition to RAG and agent learning.
+- **[Agents](https://github.com/pawangadiya-menda/Agents)** — structured coursework across agent foundations and multiple frameworks.
+
+---
+
+## 🗄️ Legacy / Profile Repository
+
+- **[pawanmenda](https://github.com/pawangadiya-menda/pawanmenda)** — earlier profile/portfolio README. Kept for now as a legacy repository; it can be archived later if no longer needed.
+
+---
+
+# 🧭 Learning Journey
+
+```text
+Machine Learning
+      │
+      ├── Classification
+      │     ├── Titanic Survival
+      │     └── India District Literacy
+      │
+      ▼
+Deep Learning & Computer Vision
+      │
+      ├── CNN Image Classification
+      └── Autoencoder Image Denoising
+      │
+      ▼
+NLP / LLM Systems
+      │
+      └── RAG Pipelines
+      │
+      ▼
+AI Agents
+      │
+      ├── OpenAI Agents
+      ├── CrewAI
+      ├── LangGraph / LangChain
+      └── MCP
+      │
+      ▼
+Production AI Applications
+      │
+      └── Digital Twin
+```
+
+# 🛠️ Technologies
+
+**Machine Learning:** Python · Pandas · NumPy · Scikit-learn
+
+**Deep Learning:** PyTorch · CNNs · Autoencoders · Computer Vision
+
+**Generative AI:** LLM APIs · RAG · Embeddings · Retrieval · Prompt Engineering · Evals
+
+**AI Agents:** OpenAI Agents · CrewAI · LangChain · LangGraph · MCP
+
+**Product:** 0→1 SaaS · Enterprise B2B · AI Product Strategy · Model Quality → Product Experience → Business Outcomes
+
+---
 
 ## 🎓 Background
 
-- 🏢 Senior Product Manager, **Accenture** — enterprise clients across 30+ countries
-- 🚀 Product lead on a **0→1 vertical SaaS** (InnoVites) — scaled to 10 enterprise clients, Microsoft ISV certified
-- 🎓 **MBA, Indian School of Business** · Executive AI/ML Programme, IIIT Hyderabad · Certifications from Kellogg & Duke
+- 🏢 Senior Product Manager, **Accenture**
+- 🎓 **MBA, Indian School of Business**
+- 🤖 Executive AI/ML Programme, **IIIT Hyderabad**
 
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pawangadiya-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawangadiya/)
-[![Digital Twin](https://img.shields.io/badge/Ask_my_AI_Twin-live_demo-8A2BE2)](https://digital-twin-1jym.onrender.com/)
 
-*Building AI/ML fluency with a PM lens — every project here ships with product thinking, not just code.*
+---
+
+*This portfolio documents my journey from Machine Learning foundations to Deep Learning, Generative AI and AI Agents — with both technical implementation and product thinking.*
