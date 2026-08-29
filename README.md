@@ -2,7 +2,7 @@
 
 **Senior Product Manager @ Accenture | B2B SaaS → AI Products | ISB MBA**
 
-I am building hands-on depth in AI/ML alongside product management. This GitHub is organized by **technology area**, so visitors can easily navigate from classical Machine Learning to Deep Learning, RAG, and AI Agents.
+I am building hands-on depth in AI/ML alongside product management. This GitHub is organized by **technology and application area**, so visitors can easily navigate from classical Machine Learning to Deep Learning, Recommendation Systems, RAG, and AI Agents.
 
 🤖 **Talk to my AI Digital Twin:** [Live Demo](https://digital-twin-1jym.onrender.com/)
 
@@ -26,6 +26,16 @@ I am building hands-on depth in AI/ML alongside product management. This GitHub 
 |---|---|
 | [**Image-Classification**](https://github.com/pawangadiya-menda/Image-Classification) | Binary image classification using Convolutional Neural Networks (CNNs) in PyTorch. |
 | [**plant-image-denoising-autoencoder**](https://github.com/pawangadiya-menda/plant-image-denoising-autoencoder) | Convolutional autoencoder that learns to reconstruct clean plant images from noisy inputs using paired noisy–pure images. |
+
+---
+
+## 🎬 Recommendation Systems
+
+| Project | Description |
+|---|---|
+| [**Movie Recommendation System — Colab**](recommendation-system/movie-recommendation-colab.md) | Movie recommendation project available in Google Colab, demonstrating a personalized recommendation workflow from movie/user data to ranked recommendations. |
+
+**Category rationale:** Recommendation Systems are best treated as a distinct applied ML category rather than automatically classifying them as Deep Learning. They can be built using collaborative filtering, content-based methods, classical ML, deep learning, or hybrid approaches.
 
 ---
 
@@ -62,6 +72,9 @@ Machine Learning
       │     ├── Titanic Survival
       │     └── India District Literacy
       │
+      ├── Recommendation Systems
+      │     └── Movie Recommendation
+      │
       ▼
 Deep Learning & Computer Vision
       │
@@ -77,8 +90,11 @@ NLP / LLM Systems
 AI Agents
       │
       ├── OpenAI Agents
+      │
       ├── CrewAI
+      │
       ├── LangGraph / LangChain
+      │
       └── MCP
       │
       ▼
@@ -89,7 +105,7 @@ Production AI Applications
 
 # 🛠️ Technologies
 
-**Machine Learning:** Python · Pandas · NumPy · Scikit-learn
+**Machine Learning:** Python · Pandas · NumPy · Scikit-learn · Recommendation Systems
 
 **Deep Learning:** PyTorch · CNNs · Autoencoders · Computer Vision
 
@@ -113,4 +129,4 @@ Production AI Applications
 
 ---
 
-*This portfolio documents my journey from Machine Learning foundations to Deep Learning, Generative AI and AI Agents — with both technical implementation and product thinking.*
+*This portfolio documents my journey from Machine Learning foundations to Recommendation Systems, Deep Learning, Generative AI and AI Agents — with both technical implementation and product thinking.*
