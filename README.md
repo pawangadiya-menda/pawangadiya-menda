@@ -16,6 +16,7 @@ I am building hands-on depth in AI/ML alongside product management. This GitHub 
 |---|---|
 | [**Agents**](https://github.com/pawangadiya-menda/Agents) | Hands-on agentic AI learning covering foundations, OpenAI, CrewAI, LangChain/LangGraph, agent frameworks and MCP. |
 | [**rag-agents-learning**](https://github.com/pawangadiya-menda/rag-agents-learning) | RAG fundamentals, end-to-end RAG pipelines, embeddings, retrieval, generation, advanced RAG and AI-agent concepts with a PM lens. |
+| [**llm-evaluation-product-quality**](https://github.com/pawangadiya-menda/llm-evaluation-product-quality) | Hands-on learning project on LLM evaluation, trace analysis, rubric-based judging, evaluator validation, and turning quality signals into AI product decisions. |
 | [**digital-twin**](https://github.com/pawangadiya-menda/digital-twin) | AI-powered digital twin/chatbot grounded in my professional profile, built with an LLM API and Gradio and deployed on Render. |
 
 ---
@@ -84,7 +85,12 @@ Deep Learning & Computer Vision
       ▼
 NLP / LLM Systems
       │
-      └── RAG Pipelines
+      ├── RAG Pipelines
+      │
+      └── LLM Evaluation & Product Quality
+      │       ├── Trace Analysis
+      │       ├── Programmatic & Rubric-Based Evaluation
+      │       └── Evaluator Validation → Product Decisions
       │
       ▼
 AI Agents
